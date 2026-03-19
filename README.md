@@ -56,7 +56,8 @@ pnpm install
 Bash
 pnpm dev
 本地访问：http://localhost:3000
-官方网站:https://xodn.com/
+
+官方网站:https://xodn.com
 
 🛠️ 技术栈清单
 核心架构
@@ -103,12 +104,11 @@ AI官方网站: https://ai.xodn.com
 
 案例演示: 雷锋数字分身
 
-联系邮箱: x@xodn.com
 
 地理位置: 湖南省衡阳市珠晖区 湖南工学院
 
 <div align="center">
 <p>Licensed under the <a href="./LICENSE">Apache-2.0 License</a></p>
-<p>© 2026 <strong>心元 (Xinyuan AI)</strong>. 保留所有权利。</p>
+<p>© 2026 <strong>心元 (X Origin Digital Nexus AI)</strong>. 保留所有权利。</p>
 <p><small>湘ICP备2026007568号</small></p>
 </div>
