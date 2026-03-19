@@ -79,18 +79,9 @@ pnpm dev
 
 包管理: pnpm (高效、磁盘占用低)
 
-📂 项目结构
-Plaintext
-├── src/
-│ ├── components/ # 可复用 UI 组件
-│ ├── hooks/ # 自定义 React Hooks
-│ ├── assets/ # 本地静态资源 (图片、图标)
-│ ├── App.tsx # 应用主入口
-│ └── main.tsx # 渲染配置
-├── public/ # 公共资源
-├── vite.config.ts # 构建优化配置
-└── tsconfig.json # TS 编译规则
+
 🎯 发展蓝图
+
 [x] Phase 1: 启蒙 (Current) - 完成多模态数据展示方案，实现核心 UI 交互。
 
 [ ] Phase 2: 融合 (2026 Q4) - 场景化产品落地，强化数据加密与本地化存储。
