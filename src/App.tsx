@@ -44,7 +44,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         <div className="flex items-center gap-3 group cursor-pointer">
           <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shadow-lg shadow-white/10 group-hover:scale-110 transition-transform duration-300">
-            <Heart className="w-6 h-6 text-black fill-black/20" />
+            <img src="/src/assets/icon.png" alt="心元 Logo" className="w-8 h-8 object-contain" />
           </div>
           <span className="font-bold text-2xl tracking-tight font-serif text-white">心元</span>
         </div>
@@ -509,7 +509,7 @@ const Footer = () => {
           <div className="col-span-2">
             <div className="flex items-center gap-3 mb-6">
               <div className="w-8 h-8 rounded-lg bg-white flex items-center justify-center">
-                <Heart className="w-5 h-5 text-black" />
+                <img src="/src/assets/icon.png" alt="心元 Logo" className="w-6 h-6 object-contain" />
               </div>
               <span className="font-bold text-xl tracking-tight font-serif text-white">心元</span>
             </div>
